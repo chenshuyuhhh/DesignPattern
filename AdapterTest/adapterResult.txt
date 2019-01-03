@@ -1,0 +1,13 @@
+#Write by FileProperties
+#Thu Jan 03 19:11:30 CST 2019
+#Thu Jan 03 19:11:30 CST 2019
+paperw11900paperh16840margl1440margr1440vieww10800viewh8400viewkind0=
+{\fonttbl\f0\fswiss\fcharset0=Helvetica;}
+{colortbl;\red255green255blue255;}=
+{\rtf1ansiansicpg936cocoartf1671=
+month=1
+pard\tx566\tx1133\tx1700\tx2267\tx2834\tx3401\tx3968\tx4535\tx5102\tx5669\tx6236\tx6803pardirnaturalpartightenfactor0=
+year=2019
+\f0\fs24=cf0 year\=1999}
+day=1
+{*expandedcolortbl;;}=

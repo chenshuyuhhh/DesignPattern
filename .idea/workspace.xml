@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="83f1186c-d477-488b-a380-12873caa865b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="83f1186c-d477-488b-a380-12873caa865b" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -16,7 +13,7 @@
     <session id="-1628196111">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="5" />
+          <entry key="project.closed" value="6" />
           <entry key="project.open.time.0" value="2" />
           <entry key="project.open.time.1" value="3" />
           <entry key="project.open.time.5" value="1" />
@@ -286,7 +283,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1546272102673" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1546513890459" />
     <property name="extract.method.default.visibility" value="private" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -318,13 +315,26 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Main">
+  <component name="RunManager" selected="Application.Main (2)">
     <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Observer.Main" />
       <module name="DesignPattern" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="Observer.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Adapter.Main" />
+      <module name="DesignPattern" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Adapter.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -364,19 +374,6 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="Facade.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Proxy.Main" />
-      <module name="DesignPattern" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Proxy.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -437,14 +434,15 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Main" />
       <item itemvalue="Application.Main (5)" />
       <item itemvalue="Application.Main (1)" />
       <item itemvalue="Application.Main (3)" />
       <item itemvalue="Application.Main (4)" />
+      <item itemvalue="Application.Main (2)" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main (2)" />
         <item itemvalue="Application.Main (4)" />
         <item itemvalue="Application.Main (5)" />
         <item itemvalue="Application.Main (3)" />
